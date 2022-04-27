@@ -1,0 +1,16 @@
+C:\Angular\Personas1\Personas1.Data\bin\Release\netcoreapp3.1\Personas1.Data.deps.json
+C:\Angular\Personas1\Personas1.Data\bin\Release\netcoreapp3.1\Personas1.Data.runtimeconfig.json
+C:\Angular\Personas1\Personas1.Data\bin\Release\netcoreapp3.1\Personas1.Data.runtimeconfig.dev.json
+C:\Angular\Personas1\Personas1.Data\bin\Release\netcoreapp3.1\Personas1.Data.dll
+C:\Angular\Personas1\Personas1.Data\bin\Release\netcoreapp3.1\Personas1.Data.pdb
+C:\Angular\Personas1\Personas1.Data\bin\Release\netcoreapp3.1\Personas1.Domain.To.dll
+C:\Angular\Personas1\Personas1.Data\bin\Release\netcoreapp3.1\Personas1.Domain.To.pdb
+C:\Angular\Personas1\Personas1.Data\obj\Release\netcoreapp3.1\Personas1.Data.csprojAssemblyReference.cache
+C:\Angular\Personas1\Personas1.Data\obj\Release\netcoreapp3.1\Personas1.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular\Personas1\Personas1.Data\obj\Release\netcoreapp3.1\Personas1.Data.AssemblyInfoInputs.cache
+C:\Angular\Personas1\Personas1.Data\obj\Release\netcoreapp3.1\Personas1.Data.AssemblyInfo.cs
+C:\Angular\Personas1\Personas1.Data\obj\Release\netcoreapp3.1\Personas1.Data.csproj.CoreCompileInputs.cache
+C:\Angular\Personas1\Personas1.Data\obj\Release\netcoreapp3.1\Personas1.Data.csproj.CopyComplete
+C:\Angular\Personas1\Personas1.Data\obj\Release\netcoreapp3.1\Personas1.Data.dll
+C:\Angular\Personas1\Personas1.Data\obj\Release\netcoreapp3.1\Personas1.Data.pdb
+C:\Angular\Personas1\Personas1.Data\obj\Release\netcoreapp3.1\Personas1.Data.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Personas1BackEndWebApi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Angular\\Personas1\\Personas1\.WebApi\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Personas1.Data.Context.Personas1Context" description="" value="Data Source=tcp:personas1dbserver.database.windows.net,1433;Initial Catalog=Personas1DB;User Id=diego.acevedoa@personas1dbserver;Password=Medellin1*" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Angular\\Personas1\\Personas1\.WebApi\\obj\\Release\\net5\.0\\PubTmp\\EFSQLScripts\\Personas1\.Data\.Context\.Personas1Context\.sql$" />
+  </parameter>
+</parameters>

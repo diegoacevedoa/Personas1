@@ -1,0 +1,10 @@
+C:\Angular\Personas1\Personas1.Domain.To\bin\Debug\netcoreapp3.1\Personas1.Domain.To.deps.json
+C:\Angular\Personas1\Personas1.Domain.To\bin\Debug\netcoreapp3.1\Personas1.Domain.To.dll
+C:\Angular\Personas1\Personas1.Domain.To\bin\Debug\netcoreapp3.1\Personas1.Domain.To.pdb
+C:\Angular\Personas1\Personas1.Domain.To\obj\Debug\netcoreapp3.1\Personas1.Domain.To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular\Personas1\Personas1.Domain.To\obj\Debug\netcoreapp3.1\Personas1.Domain.To.AssemblyInfoInputs.cache
+C:\Angular\Personas1\Personas1.Domain.To\obj\Debug\netcoreapp3.1\Personas1.Domain.To.AssemblyInfo.cs
+C:\Angular\Personas1\Personas1.Domain.To\obj\Debug\netcoreapp3.1\Personas1.Domain.To.csproj.CoreCompileInputs.cache
+C:\Angular\Personas1\Personas1.Domain.To\obj\Debug\netcoreapp3.1\Personas1.Domain.To.dll
+C:\Angular\Personas1\Personas1.Domain.To\obj\Debug\netcoreapp3.1\Personas1.Domain.To.pdb
+C:\Angular\Personas1\Personas1.Domain.To\obj\Debug\netcoreapp3.1\Personas1.Domain.To.csproj.AssemblyReference.cache

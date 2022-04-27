@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnAvrtDb6CUuEcyuWARnXTAAAAAACAAAAAAADZgAAwAAAABAAAABf0rEM4MyZjvsfeNSiws/ZAAAAAASAAACgAAAAEAAAAFGdzdpgDUNa0V0p1k1znPWAAAAAdzFXq99PE+GRmEsTmtAwihd08L9wcZyKo6v/npZXn+7ohcTZ2TMp6xKnQZktsXj0anrS6KR0OGq2J/8o6k5t9cJHaGPp0qt/Cj5Wua94xzeDniDgpw5REaO33s3/uZOe7rOpKBs/wZrBqb1JRGrqhzj2118MKxIA+Pw+ltPtQgEUAAAAg8SaGYh7YEF/VukEOFmIRiWek7c=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConexionDB">
+      <Value>Data Source=tcp:personas1dbserver.database.windows.net,1433%3bInitial Catalog=Personas1DB%3bUser Id=diego.acevedoa%40personas1dbserver%3bPassword=Medellin1%2a</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Personas1.Data.Context.Personas1Context">
+      <Value>Data Source=tcp:personas1dbserver.database.windows.net,1433%3bInitial Catalog=Personas1DB%3bUser Id=diego.acevedoa%40personas1dbserver%3bPassword=Medellin1%2a</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
